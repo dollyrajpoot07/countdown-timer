@@ -27,12 +27,6 @@ A simple and interactive countdown timer built using React. It lets users input 
 
 ---
 
-## ✨ Example
-
-![Countdown Demo](https://your-demo-url.gif)
-
----
-
 Happy Timing ⏱️!
 
 <img width="464" height="307" alt="Screenshot 2025-07-11 at 11 54 36 PM" src="https://github.com/user-attachments/assets/af47e14a-2358-4d6c-9867-5bd40751bb86" />
